@@ -1,23 +1,3 @@
-#  File: ExpressionTree.py
-
-#  Description:
-
-#  Student Name: Siddharth Sundaram
-
-#  Student UT EID: svs833
-
-#  Partner Name: Lauren Adams
-
-#  Partner UT EID: la27334
-
-#  Course Name: CS 313E
-
-#  Unique Number:
-
-#  Date Created: 03/15/2022
-
-#  Date Last Modified:
-
 import sys
 
 operators = ['+', '-', '*', '/', '//', '%', '**']
@@ -109,7 +89,6 @@ class Tree (object):
             str = self.post_order(aNode.lChild) + str
         return str
 
-# you should NOT need to touch main, everything should be handled for you
 def main():
     # read infix expression
     line = sys.stdin.readline()
