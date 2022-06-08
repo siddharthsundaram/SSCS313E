@@ -1,26 +1,3 @@
-
-
-#  File: TestBinaryTree.py
-
-#  Description: Methods for a Binary Tree
-
-#  Student Name: Siddharth Sundaram
-
-#  Student UT EID: svs833
-
-#  Partner Name: Lauren Adams
-
-#  Partner UT EID: la27334
-
-#  Course Name: CS 313E
-
-#  Unique Number: 51130
-
-#  Date Created: 03/22/2022
-
-#  Date Last Modified:
-
-
 import sys
 
 
@@ -184,9 +161,6 @@ def make_tree(data):
         tree.insert(d)
     return tree
 
-
-# Develop your own main function or test cases to be able to develop.
-# Our tests on the Gradescop will import your classes and call the methods.
 
 def main():
     # Create three trees - two are the same and the third is different
