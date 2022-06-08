@@ -1,14 +1,3 @@
-#  File: GraphFill.py
-#  Description:
-#  Student Name: Siddharth Sundaram
-#  Student UT EID: svs833
-#  Partner Name: Lauren Adams
-#  Partner UT EID: la27334
-#  Course Name: CS 313E
-#  Unique Number: 51130
-#  Date Created: 04/03/2022
-#  Date Last Modified:
-
 import os
 import sys
 # this enables printing colors on Windows somehow
